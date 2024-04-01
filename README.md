@@ -2,7 +2,7 @@
 # Airbnb Listings Data Visualization
 
 This Tableau visualization project aims to provide insights into Airbnb listings data. The visualization showcases various aspects of Airbnb listings such as pricing trends, property types, geographical distribution, and more.
-##Dashboard image
+## Dashboard image
 ![Dashboard Image](dashboard.png)
 
 ## Getting Started
@@ -17,7 +17,7 @@ To view the visualization, follow these steps:
 
 ## Data Source
 
-The data used for this visualization was sourced from the Airbnb Inside website. It includes information about Airbnb listings in various cities worldwide, including details such as price, property type, location, and more.
+The data used for this visualization was sourced from the Airbnb Inside website.[HERE]https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset It includes information about Airbnb listings in various cities worldwide, including details such as price, property type, location, and more.
 
 ## Overview of Visualization
 
